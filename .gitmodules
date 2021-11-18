@@ -1,0 +1,3 @@
+[submodule "tsmp"]
+	path = tsmp
+	url = https://github.com/victorlaurentiu/tsmp
